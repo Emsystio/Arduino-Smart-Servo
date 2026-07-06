@@ -1,2 +1,2 @@
 # Arduino-Smart-Servo-System
-A collection of my basic embedded systems and microcontroller codes.
+An interactive Arduino Mega system that features a personalized LCD user greeting and automated proximity sensing. It allows users to wirelessly control and customize a servo motor's speed using an IR remote.
